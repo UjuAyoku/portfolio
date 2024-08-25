@@ -1,18 +1,5 @@
 # Data Scientist & Project Manager
 
-## Education
-- M.Sc., Data Science | Johns Hopkins Whiting School of Engineering, Maryland. 
-- B.Eng., Electronic Engineering | The University of Nigeria, Nsukka, Enugu.
-
-## Work Experience
-**Senior Project Manager @ Rogers ()**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Senior Project Manager @ Shaw ()**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Notebook](https://www.github.com/ujuayoku/portfolio/)
@@ -49,3 +36,17 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Communication, Stakeholder Management, Requirements Gathering
 - Risk Management, Budgeting, Resource Allocation
 - MS Project, Oracle, Jira, Confluence, SharePoint, ServiceNow
+
+## Education
+- M.Sc., Data Science | Johns Hopkins Whiting School of Engineering, Maryland. 
+- B.Eng., Electronic Engineering | The University of Nigeria, Nsukka, Enugu.
+
+## Work Experience
+**Senior Project Manager @ Rogers ()**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+
+**Senior Project Manager @ Shaw ()**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
