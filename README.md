@@ -1,9 +1,8 @@
 # Data Scientist & Project Manager
 
 ## Education
-Data Science, M.Sc. 
-M.Sc., Data Science | Johns Hopkins Whiting School of Engineering, Maryland. 
-B.Eng., Electronic Engineering | The University of Nigeria, Nsukka, Enugu.
+- M.Sc., Data Science | Johns Hopkins Whiting School of Engineering, Maryland. 
+- B.Eng., Electronic Engineering | The University of Nigeria, Nsukka, Enugu.
 
 ## Work Experience
 **Senior Project Manager @ Rogers ()**
