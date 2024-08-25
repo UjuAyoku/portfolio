@@ -1,4 +1,4 @@
-# Naturally Inquisitive Data Scientist & Project Manager
+# Data Scientist & Project Manager
 
 ## Education
 Data Science, M.Sc. 
