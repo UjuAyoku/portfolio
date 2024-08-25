@@ -19,27 +19,36 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Automobile fuel efficiency prediction
 - Abalone protection through age prediction
   
-## Technical Skills
+## Skills
+- Asking the WHY questions
+- Communication insights to non-technical audience
+- Storytelling
+- Domain knowledge
+  
 ### Data Science & Analytics:
-- Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- Data Cleaning, Data Visualization (Matplotlib, Seaborn), Exploratory Data Analysis (EDA)
+- Python, R, SQL
+- Math, Statistics (Computational, Bayesian, Frequentist)
+- ETL (Extract Transform Load), Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn, Plotly)
 - Machine Learning Algorithms, Statistical Analysis, Predictive Modeling
 - Data Wrangling, Feature Engineering, Model Evaluation and Improvement
 
 ### Tools & Technologies:
-- Jupyter Notebooks, Git, GitHub, Tableau, Power BI, Excel
-- Big Data Technologies: Hadoop, Spark (Basics)
 - Database Management: MySQL, SQLite3
+- Jupyter Notebooks, Git, GitHub, Tableau, Power BI, Excel
+- Streamlit, Mercury
+- Big Data Technologies: Hadoop, Spark (Basics)
 
 ### Project Management:
 - Agile & Scrum Methodologies, Waterfall Project Management
-- Communication, Stakeholder Management, Requirements Gathering
+- Stakeholder Communication, Requirements Gathering
 - Risk Management, Budgeting, Resource Allocation
 - MS Project, Oracle, Jira, Confluence, SharePoint, ServiceNow
 
 ## Education
 - M.Sc., Data Science | Johns Hopkins Whiting School of Engineering, Maryland. 
 - B.Eng., Electronic Engineering | The University of Nigeria, Nsukka, Enugu.
+
+## Certifications & Training
 
 ## Work Experience
 **Senior Project Manager @ Rogers ()**
