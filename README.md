@@ -1,5 +1,4 @@
-# Project Manager | Data Scientist
-Technical Skills: Python, R, SQL, AWS, Tableau, PowerBI, Machine Learning Algorithms, Bayesian Statistics, Computational Statistics, Data Structures
+# Naturally Inquisitive Data Scientist & Project Manager
 
 ## Education
 Data Science, M.Sc. 
@@ -32,4 +31,19 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Automobile fuel efficiency prediction
 - Abalone protection through age prediction
   
+## Technical Skills
+### Data Science & Analytics:
+- Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+- Data Cleaning, Data Visualization (Matplotlib, Seaborn), Exploratory Data Analysis (EDA)
+- Machine Learning Algorithms, Statistical Analysis, Predictive Modeling
+- Data Wrangling, Feature Engineering, Model Evaluation and Improvement
 
+### Tools & Technologies:
+Jupyter Notebooks, Git, GitHub, Tableau, Power BI, Excel
+Big Data Technologies: Hadoop, Spark (Basics)
+Database Management: MySQL, SQLite3
+
+### Project Management:
+- Agile & Scrum Methodologies, Waterfall Project Management
+- Risk Management, Budgeting, Resource Allocation, Stakeholder Communication, Requirements Gathering
+- MS Project, Oracle, Jira, Confluence, SharePoint, ServiceNow
