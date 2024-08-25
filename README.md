@@ -1,4 +1,4 @@
-# Data Scientist
+# Project Manager | Data Scientist
 Technical Skills: Python, R, SQL, AWS, Tableau, PowerBI, Machine Learning Algorithms, Bayesian Statistics, Computational Statistics, Data Structures
 
 ## Education
