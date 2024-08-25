@@ -39,11 +39,12 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - Data Wrangling, Feature Engineering, Model Evaluation and Improvement
 
 ### Tools & Technologies:
-Jupyter Notebooks, Git, GitHub, Tableau, Power BI, Excel
-Big Data Technologies: Hadoop, Spark (Basics)
-Database Management: MySQL, SQLite3
+- Jupyter Notebooks, Git, GitHub, Tableau, Power BI, Excel
+- Big Data Technologies: Hadoop, Spark (Basics)
+- Database Management: MySQL, SQLite3
 
 ### Project Management:
 - Agile & Scrum Methodologies, Waterfall Project Management
-- Risk Management, Budgeting, Resource Allocation, Stakeholder Communication, Requirements Gathering
+- Communication, Stakeholder Management, Requirements Gathering
+- Risk Management, Budgeting, Resource Allocation
 - MS Project, Oracle, Jira, Confluence, SharePoint, ServiceNow
