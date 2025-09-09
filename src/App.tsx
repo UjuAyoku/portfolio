@@ -75,7 +75,7 @@ const projects: Project[] = [
     tags: ["AI", "NLP", "LLM", "OpenAI", "Python", "API", "CSS", "Streamlit Cloud", "ATS Optimization", "Resume Parsing"],
     githubUrl: "https://github.com/UjuAyoku/resume-optimizer/tree/main",
     demoUrl: "https://resumeoptimizerpro.streamlit.app/",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "",
   },
   {
     id: 6,
