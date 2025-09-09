@@ -20,43 +20,43 @@ const projects: Project[] = [
     id: 1,
     title: "Cold Email Generator",
     description: "Sales teams waste hours manually researching prospects. This AI tool automates personalized cold email generation by analyzing job listings, helping services companies accelerate their sales pipeline with context-aware emails optimized for conversion.",
-    imageUrl: "/assets/email_generator.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/email_generator.PNG",
     details:
         ``,
     tags: ["LLM", "LangChain", "Llama 3.1", "Groqcloud", "ChromaDB", "Python", "Streamlit", "Sales Automation"],
     githubUrl: "https://github.com/UjuAyoku/cold-email-generator/tree/main",
     demoUrl: "https://cold-email-creator.streamlit.app/",
-    videoUrl: "https://www.youtube.com/embed/bhx-rgOghAE?si=YjgT-PWo05v2kJLK",
+    videoUrl: "",
   },
   {
     id: 2,
     title: "ARIA  - Audio Research & Intelligence Assistant",
     description: "Tired of spending hours on research? ARIA is a fully automated research assistant built with n8n that turns any topic into a downloadable podcast-style audio briefing.",
-    imageUrl: "/assets/workflow-diagram.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/workflow-diagram.PNG",
     details:
       "It sources data from academic databases, summarizes findings, and handles content moderation to deliver safe audio reports directly to your inbox, while logging any policy violation.",
     tags: ["n8n", "AI Agent", "Research", "OpenAI API", "Perplexity AI", "OpenAI Moderation", "Google Sheets API", "Open AI Text-To-Speech", "Workflow Automation"],
     githubUrl: "https://github.com/UjuAyoku/ARIA/tree/main",
     demoUrl: "https://twinkle246.app.n8n.cloud/form/9aa26467-85a3-4d0e-aab2-d0962a11d1ea",
-    videoUrl: "https://www.youtube.com/embed/HwIVyqfqG2Q?si=xWUxhOe12fV0BzOO",
+    videoUrl: "",
   },
     {
     id: 3,
     title: "Customer Churn Predictor",
     description: "The Churn Predictor is a machine learning application that identifies customers at high risk of cancellation. By analyzing key factors like tenure, service type, and spending habits, it empowers businesses to proactively retain valuable customers with targeted outreach campaigns.",
-    imageUrl: "/assets/customer_churn.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/customer_churn.PNG",
     details:
       "",
     tags: ["EDA", "Python", "Scikit-learn", "Pandas", "Numpy", "Flask",  "JavaScript", "Machine Learning", "Predictive Modeling", ],
     githubUrl: "https://github.com/UjuAyoku/churn-predictor",
     demoUrl: "https://github.com/UjuAyoku/churn-predictor",
-    videoUrl: "https://www.youtube.com/embed/XrifV71Tc5c?si=LdI-Fj4tmbfoZEt1",
+    videoUrl: "",
   },
   {
     id: 4,
     title: "SmartMoney",
     description: "This web app helps you make smarter financial decisions. By computing the interests for investments, loans, or mortgage before signing on, you can make informed decisions about your finances.",
-    imageUrl: "/assets/smartmoney.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/smartmoney.PNG",
     details:
       "",
     tags: ["Python", "Flask", "Docker", "Tailwind CSS", "Google Cloud", "Railway", "Financial Technology"],
@@ -69,7 +69,7 @@ const projects: Project[] = [
     title: "Resume Optimizer",
     description:
       "This app enables job seekers to create, analyze, and optimize their resumes for specific roles. It provides tailored suggestions for improvement and Applicant Tracking System (ATS) score to maximize interview chances.",
-    imageUrl: "/assets/resume.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/resume.PNG",
     details:
       "",
     tags: ["AI", "NLP", "LLM", "OpenAI", "Python", "API", "CSS", "Streamlit Cloud", "ATS Optimization", "Resume Parsing"],
@@ -80,10 +80,10 @@ const projects: Project[] = [
   {
     id: 6,
     title: "Data Visualization",
-    description: "A collection of interactive dashboards and visualizations built in Tableau.",
-    imageUrl: "/assets/viz.PNG",
+    description: "A collection of interactive visualizations built in Tableau.",
+    imageUrl: process.env.PUBLIC_URL + "/assets/viz.PNG",
     details:
-      "This portfolio showcases my ability to transform raw data into compelling visual stories. The dashboards cover various domains and demonstrate skills in calculated fields, parameters, LOD expressions, and intuitive design to facilitate data-driven decision-making.",
+      "This collection features interactive dashboards that solve real-world problems across multiple domains. Each visualization leverages advanced techniques like parameters and LOD expressions to not only tell a story but also provide a dynamic tool for exploration and data-driven decision-making.",
     tags: ["Tableau", "Power BI", "Data Visualization", "Dashboard", "Data Analysis", "Business Intelligence"],
     githubUrl: "",
     demoUrl: "https://public.tableau.com/app/profile/uju.ayoku/vizzes",
@@ -397,7 +397,7 @@ const App: React.FC = () => {
             >
               I'm a  people-first leader passionate about solving complex problems with high-performing teams through Data Science, Machine Learning, and Artificial Intelligence.
               <br/><br/>
-              As a Data Scientist and Technical Project Leader with a Master's from Johns Hopkins, a Bachelor's in Electronics Engineering, and a unique cross-industry background (Oil & Gas, software, 
+              As a Data Scientist, Researcher, and Technical Project Leader with a Master's from Johns Hopkins, a Bachelor's in Electronics Engineering, and a unique cross-industry background (Oil & Gas, software, 
               telecom, and manufacturing) spanning multiple continents, I bridge the gap between deep technical skills and strategic execution. I leverage certifications in 
               project management (PMP, Agile - SAFe, CSM), change management (PROSCI), and IT governance (ITIL) to deliver complex, data-driven projects on time and within scope.
               <br/><br/>
