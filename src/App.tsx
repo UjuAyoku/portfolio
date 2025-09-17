@@ -37,7 +37,7 @@ const projects: Project[] = [
       "It sources data from academic databases, summarizes findings, and handles content moderation to deliver safe audio reports directly to your inbox, while logging any policy violation.",
     tags: ["n8n", "AI Agent", "Research", "OpenAI API", "Perplexity AI", "OpenAI Moderation", "Google Sheets API", "Open AI Text-To-Speech", "Workflow Automation"],
     githubUrl: "https://github.com/UjuAyoku/ARIA/tree/main",
-    demoUrl: "https://twinkle246.app.n8n.cloud/form/9aa26467-85a3-4d0e-aab2-d0962a11d1ea",
+    demoUrl: "https://n8n.research-ai-agent.com",
     videoUrl: "",
   },
     {
@@ -68,7 +68,7 @@ const projects: Project[] = [
     id: 5,
     title: "Resume Optimizer",
     description:
-      "This app enables job seekers to create, analyze, and optimize their resumes for specific roles. It provides tailored suggestions for improvement and Applicant Tracking System (ATS) score to maximize interview chances.",
+      "Looking for a new role? Use this app to create, analyze, and optimize your resume. You will receive an Applicant Tracking System (ATS) score and tailored suggestions of keywords required to maximize your chances.",
     imageUrl: process.env.PUBLIC_URL + "/assets/resume.PNG",
     details:
       "",
@@ -81,7 +81,7 @@ const projects: Project[] = [
     id: 6,
     title: "Data Visualization",
     description: "A collection of interactive visualizations built in Tableau.",
-    imageUrl: process.env.PUBLIC_URL + "/assets/viz.PNG",
+    imageUrl: process.env.PUBLIC_URL + "/assets/data_viz.PNG",
     details:
       "This collection features interactive dashboards that solve real-world problems across multiple domains. Each visualization leverages advanced techniques like parameters and LOD expressions to not only tell a story but also provide a dynamic tool for exploration and data-driven decision-making.",
     tags: ["Tableau", "Power BI", "Data Visualization", "Dashboard", "Data Analysis", "Business Intelligence"],
@@ -223,7 +223,7 @@ const App: React.FC = () => {
             isDarkMode ? "text-purple-300" : "text-purple-800"
           } mb-4`}
         >
-          I'm Uju: Data Science Leader | AI Project Manager - welcome to my portfolio.
+          I am Uju: Data Science Leader | AI Project Manager - welcome to my portfolio.
         </h3>
         <p  
           className={`text-xl text-justify ${
@@ -395,17 +395,18 @@ const App: React.FC = () => {
                 isDarkMode ? "text-purple-200" : "text-purple-800"
               } mb-4`}
             >
-              I'm a  people-first leader passionate about solving complex problems with high-performing teams through Data Science, Machine Learning, and Artificial Intelligence.
+              I am a people-first leader who transforms complex initiatives in Engineering, IT, Data Science, Machine Learning, and Artificial Intelligence into measurable business value.
               <br/><br/>
-              As a Data Scientist, Researcher, and Technical Project Leader with a Master's from Johns Hopkins, a Bachelor's in Electronics Engineering, and a unique cross-industry background (Oil & Gas, software, 
-              telecom, and manufacturing) spanning multiple continents, I bridge the gap between deep technical skills and strategic execution. I leverage certifications in 
-              project management (PMP, Agile - SAFe, CSM), change management (PROSCI), and IT governance (ITIL) to deliver complex, data-driven projects on time and within scope.
+              With a Master's in Data Science from Johns Hopkins, a Bachelor's in Electronics Engineering, and cross-industry experience spanning Oil & Gas, Software, Telecom, and Manufacturing 
+              across multiple continents, I bridge the gap between deep technical expertise and strategic execution.
               <br/><br/>
-              When I am not tracking emerging technologies, you can find me hiking the trails of Southern Alberta or teaching kids robotics. I believe the best solutions come from curiosity, 
-              diverse perspectives, and teamwork.
+              As a certified PMP, SAFe Agile, PROSCI, and ITIL professional, I combine proven and program project leadership with hands-on technical skills to ensure advanced solutions are not only innovative, 
+              but also delivered on time, within scope, and aligned with business goals.
+              <br/><br/>              
+              When I am not tracking emerging technologies, you will likely find me hiking the trails of Southern Alberta or teaching kids robotics. I believe the best solutions come 
+              from curiosity, teamwork, and diverse perspectives.
               </p>
           </div>
-
         </div>
       </section>
 
