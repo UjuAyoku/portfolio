@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://UjuAyoku.github.io/portfolio",
+  "homepage": "/portfolio/",
   "dependencies": {
     "autoprefixer": "^10.4.14",
     "emailjs-com": "^3.2.0",

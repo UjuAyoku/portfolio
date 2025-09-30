@@ -140,7 +140,7 @@ const App: React.FC = () => {
 
   return (
     <div
-      className={`min- ${
+      className={`min-h-screen ${
         isDarkMode
           ? "bg-gray-900 text-white"
           : "bg-gradient-to-br from-blue-50 to-purple-50"
