@@ -223,15 +223,15 @@ const App: React.FC = () => {
             isDarkMode ? "text-purple-300" : "text-purple-800"
           } mb-4`}
         >
-          I am Uju: Data Science Leader | AI Project Manager - welcome to my portfolio.
+          I am Uju, a Data Science Leader and Technical Project Manager.
         </h3>
         <p  
           className={`text-xl text-justify ${
             isDarkMode ? "text-purple-200" : "text-purple-800"
           } mb-8`}
         >
-          I build teams and ML solutions that deliver value. Explore my projects below to see my hands-on work in data science, AI, and end-to-end project execution.
-          If you are in need of someone who bridges technical depth with people-oriented leadership, you are in the right place. 
+          I design machine learning solutions and lead teams to deliver measurable impact. Explore my projects below to see my hands-on work in AI, data science, and end-to-end project execution.
+          If you are looking for someone who bridges technical depth with people-oriented leadership, you are in the right place. 
         </p>
         <a
           href="#projects"
