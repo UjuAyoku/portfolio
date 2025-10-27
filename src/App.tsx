@@ -230,7 +230,7 @@ const App: React.FC = () => {
             isDarkMode ? "text-purple-200" : "text-purple-800"
           } mb-8`}
         >
-          I design machine learning solutions and lead teams to deliver measurable impact. Explore my projects below to see my hands-on work in AI, data science, and end-to-end project execution.
+          I build machine learning solutions and lead teams to deliver measurable impact. Explore my projects below to see my hands-on work in AI, data science, and end-to-end machine learning projects.
           If you are looking for someone who bridges technical depth with people-oriented leadership, you are in the right place. 
         </p>
         <a
