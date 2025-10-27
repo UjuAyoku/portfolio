@@ -223,14 +223,14 @@ const App: React.FC = () => {
             isDarkMode ? "text-purple-300" : "text-purple-800"
           } mb-4`}
         >
-          I am Uju, a Data Scientist & Machine Learning Engineer.
+          I am Uju, a Technical Program/Delivery Manager with technical experience in Generative AI, Deep Learning, Machine Learning, and Data Science.
         </h3>
         <p  
           className={`text-xl text-justify ${
             isDarkMode ? "text-purple-200" : "text-purple-800"
           } mb-8`}
         >
-          I build machine learning solutions and lead teams to deliver measurable impact. Explore my projects below to see my hands-on work in AI, data science, and end-to-end machine learning projects.
+          I leverage my hands-on experience in building ML solutions to effectively lead teams and deliver measurable impact. The projects below showcase this technical leadership, featuring work in data science and end-to-end AI/machine learning. 
           If you are looking for someone who bridges technical depth with people-oriented leadership, you are in the right place. 
         </p>
         <a
