@@ -223,7 +223,7 @@ const App: React.FC = () => {
             isDarkMode ? "text-purple-300" : "text-purple-800"
           } mb-4`}
         >
-          I am Uju, a Data Science Leader and Technical Project Manager.
+          I am Uju, a Data Scientist & Machine Learning Engineer.
         </h3>
         <p  
           className={`text-xl text-justify ${
