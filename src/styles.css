@@ -7,7 +7,6 @@
 /* Import Tailwind's utility styles */
 @tailwind utilities;
 
-
 body {
     font-family: sans-serif;
     -webkit-font-smoothing: auto;
